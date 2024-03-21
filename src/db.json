@@ -1,0 +1,124 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "New York",
+            "country": "USA",
+            "weather": "Cloudy",
+            "temperature": 14,
+            "humidity": 75,
+            "wind_speed": 12,
+            "visibility": 10
+        },
+        {
+            "id": 2,
+            "name": "London",
+            "country": "UK",
+            "weather": "Rainy",
+            "temperature": 10,
+            "humidity": 85,
+            "wind_speed": 18,
+            "visibility": 8
+        },
+        {
+            "id": 3,
+            "name": "Tokyo",
+            "country": "Japan",
+            "weather": "Sunny",
+            "temperature": 20,
+            "humidity": 60,
+            "wind_speed": 8,
+            "visibility": 15
+        },
+        {
+            "id": 4,
+            "name": "Paris",
+            "country": "France",
+            "weather": "Partly Cloudy",
+            "temperature": 16,
+            "humidity": 70,
+            "wind_speed": 10,
+            "visibility": 12
+        },
+        {
+            "id": 5,
+            "name": "Sydney",
+            "country": "Australia",
+            "weather": "Clear",
+            "temperature": 25,
+            "humidity": 55,
+            "wind_speed": 14,
+            "visibility": 20
+        },
+        {
+            "id": 6,
+            "name": "Berlin",
+            "country": "Germany",
+            "weather": "Foggy",
+            "temperature": 8,
+            "humidity": 90,
+            "wind_speed": 5,
+            "visibility": 3
+        },
+        {
+            "id": 7,
+            "name": "Moscow",
+            "country": "Russia",
+            "weather": "Snowy",
+            "temperature": -3,
+            "humidity": 80,
+            "wind_speed": 20,
+            "visibility": 6
+        },
+        {
+            "id": 8,
+            "name": "Rio de Janeiro",
+            "country": "Brazil",
+            "weather": "Thunderstorms",
+            "temperature": 30,
+            "humidity": 75,
+            "wind_speed": 22,
+            "visibility": 5
+        },
+        {
+            "id": 9,
+            "name": "Cairo",
+            "country": "Egypt",
+            "weather": "Dusty",
+            "temperature": 32,
+            "humidity": 50,
+            "wind_speed": 16,
+            "visibility": 7
+        },
+        {
+            "id": 10,
+            "name": "Beijing",
+            "country": "China",
+            "weather": "Smog",
+            "temperature": 18,
+            "humidity": 85,
+            "wind_speed": 6,
+            "visibility": 2
+        },
+        {
+            "id": 11,
+            "name": "Istanbul",
+            "country": "Turkey",
+            "weather": "Sunny",
+            "temperature": 15,
+            "humidity": 55,
+            "wind_speed": 13,
+            "visibility": 20
+        },
+        {
+            "id": 12,
+            "name": "Delhi",
+            "country": "IN",
+            "weather": "Haze",
+            "temperature": 32,
+            "humidity": 23,
+            "wind_speed": 3,
+            "visibility": 3000
+        }
+    ]
+}

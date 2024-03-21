@@ -1,0 +1,92 @@
+.rightBar {
+    height: 100%;
+    width: 30%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    padding-top: 60px;
+    opacity: .9;
+    text-align: center;
+}
+
+.resim {
+    width: 100%;
+    height: 920px;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    margin-bottom: 25px;
+    margin-top: 50px;
+    font-weight: 300;
+}
+
+input {
+    width: 70%;
+    height: 40px;
+    margin: 45px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid white;
+    font-size: 25px;
+    color: white;
+}
+
+button {
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+    font-size: 38px;
+    background-color: black;
+    color: white;
+    -moz-transform: scale(-1, 1);
+    -webkit-transform: scale(-1, 1);
+    -o-transform: scale(-1, 1);
+    -ms-transform: scale(-1, 1);
+    transform: scale(-1, 1);
+    border: 0;
+}
+
+h2 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.divimsi {
+    display: flex;
+    margin-left: 45px;
+}
+
+.divimsi1 {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    margin-left: 40px;
+    left: 40px;
+    justify-content: start;
+}
+
+.info {
+    margin-right: 40px;
+    right: 40px;
+    position: fixed;
+    justify-content: end;
+}
+
+.hirr {
+    opacity: .6;
+}

@@ -1,0 +1,26 @@
+.leftInfo {
+    height: 100%;
+    width: 66%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 10px;
+}
+
+.text {
+    display: flex;
+    justify-content: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+
+.selam {
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+    width: 90%;
+    padding: 0 30px 10px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
